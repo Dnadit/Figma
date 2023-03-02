@@ -1,0 +1,20 @@
+[Publishing 관련 참고 내용]
+
+Html Generator : 피그마에서 한 디자인을 HTML/CSS로 변환하는 플러그인
+
+1. 디자인 한 파일을 선택, html generator 플러그인 실행.
+    (간단한 프레임은 금방 변환되나 복잡하거나 요소가 많으면 시간이 걸리거나 안될 수도 있음.)
+
+2. 변환 한 후, html과 css를 복사, 코딩 파일에 붙여넣기
+
+
+
+Function12 : 피그마에서 디자인 한 파일을 HTML과 CSS로 변환해주는 웹사이트
+
+1. 디자인 파일의 주소를 Share 버튼 클릭, copy link로 파일의 url 복사
+
+2. function12.io 웹사이트 메인 페이지의 가운데 검색바에 붙여넣기
+
+3. Free Translate for free 버튼 클릭, 변환.
+
+4. zip으로 다운로드, html 파일 사용.
